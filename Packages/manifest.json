@@ -22,6 +22,7 @@
     "com.unity.xr.management": "4.3.3",
     "com.unity.xr.oculus": "3.3.0",
     "com.unity.xr.openxr": "1.8.2",
+    "com.unity.xr.picoxr": "file:../PICO Unity Integration SDK 230",
     "org.nuget.google.apis": "1.57.0",
     "org.nuget.google.apis.auth": "1.57.0",
     "org.nuget.google.apis.core": "https://github.com/icosa-mirror/org.nuget.google.apis.core.git#unity-newtonsoft",
